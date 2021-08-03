@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = git@github.com:ilechuks73/tic-tac-toe-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = git@github.com:ilechuks73/tic-tac-toe-frontend.git
